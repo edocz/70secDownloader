@@ -5,6 +5,7 @@
 
 ```shell
 git clone https://github.com/edocz/70secDownloader.git
+cd 70secDownloader
 npm install
 ```
 
